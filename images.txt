@@ -1,2 +1,2 @@
 alpine
-python:alpine3:19
+twang2218/gitlab-ce-zh
