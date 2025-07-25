@@ -1,6 +1,1 @@
-alpine
-twang2218/gitlab-ce-zh
-gitlab/gitlab-ce
-jasonkay/big-data-1:v1.0
-jasonkay/big-data-2:v1.0
-jasonkay/big-data-3:v1.0
+hadoop:3.3.6
