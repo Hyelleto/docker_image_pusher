@@ -1,1 +1,1 @@
-openjdk:8-jdk-alpine
+hadoop:3.3.6
